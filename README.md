@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeirdOne77:
 -    I am me.
 - 👀 I’m interested in:
-      Oracle servers
+-      Oracle servers
 -     Google Servers
 -     Streaming
 -     Teaching what I know even if noone hears it
