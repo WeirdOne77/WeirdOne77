@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @WeirdOne77
+- 👋 Hi, I’m @WeirdOne77:
+-    I am me.
 - 👀 I’m interested in:
-      Oracle servers
-      Google Servers
-      Streaming
-      Teaching what I know even if noone hears it
-      Education
+-     Oracle servers
+-     Google Servers
+-     Streaming
+-     Teaching what I know even if noone hears it
+-     Education
       
 - 🌱 I’m currently learning:
-      git
-      Advacned Linux Commands
-      Life
+-     git
+-     Advacned Linux Commands
+-     Life
       
       
 - 💞️ I’m looking to collaborate on ...
